@@ -1,4 +1,4 @@
-# 🕵️‍♀️ MythBusting CrewAI
+# 🕵️‍♀️ MythBusting Historical Figures using CrewAI
 
 **MythBusting CrewAI** is a multi-agent AI workflow built with [CrewAI](https://github.com/joaomdmoura/crewAI) that researches, writes, and optionally illustrates myth-busting articles about historical figures. It combines large language models, retrieval tools (Wikipedia, WolframAlpha, arXiv, OpenLibrary), and optional image generation (DALL·E) to produce high-quality Substack-ready content.
 
